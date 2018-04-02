@@ -50,3 +50,4 @@ target
 .vscode
 node_modules
 db.ts
+node_modules
